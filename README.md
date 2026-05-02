@@ -48,7 +48,7 @@ wordpress-aws-terraform-ansible/
 
 ### Step 1 — Provision Infrastructure with Terraform
 ```bash
-git clone https://github.com/your-username/wordpress-aws-terraform-ansible.git
+git clone https://github.com/sanjayt-1503/wordpress-aws-terraform-ansible.git
 cd wordpress-aws-terraform-ansible
 terraform init
 terraform plan
